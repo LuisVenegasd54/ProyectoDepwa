@@ -1,0 +1,12 @@
+{
+    "name": "rickandmortisw",
+    "short-name": "rickandmortyWEb",
+    "start_url": ".",
+    "display": "standalone",
+    "description": "una nueva app PWA",
+    "icons": [{
+        "src": "./assets/logo.jpg",
+        "sizes": "800x800",
+        "type": "image/png"
+    }]
+}

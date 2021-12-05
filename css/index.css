@@ -1,0 +1,34 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body {
+    width: 100vw;
+    /* padding-bottom: -50px; */
+    overflow-y: hidden;
+    background-color: #f2f0f6;
+}
+
+#container {
+    scroll-behavior: smooth;
+    width: 80vw;
+    height: 80vh;
+    margin: 0 auto;
+    overflow-y: auto
+}
+
+#header {
+    width: 100vw;
+    height: 5vw;
+    background-color: rgb(137, 186, 250);
+    display: block;
+}
+
+#header p {
+    padding: 2vw;
+    font-size: 2vw;
+    color: white;
+    display: block;
+}
